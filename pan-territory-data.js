@@ -1,5 +1,3 @@
-
-  
     var provinciaObject = {
       "Bocas del Toro": {
         "Almirante": ["Almirante", "Barriada Guaymí", "Barrio Francés", "Nance de Riscó", "Valle de Aguas Arriba", "Valle de Riscó"],
